@@ -1,7 +1,6 @@
-# Scraping-Google
+# Scraping Google
 
-CURE Team Cheese and Crackers
-=========================================
+![picture](https://user-images.githubusercontent.com/52821013/111235798-a7be4380-85ae-11eb-9b03-c4220aa69efa.png)
 
 
 General Info
